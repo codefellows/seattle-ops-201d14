@@ -47,10 +47,10 @@ endlocal
 
 ### Part 2: Push to GitHub
 
-Since your Ops Challenge repository is stored locally on your Ubuntu Server, the most convenient way to submit the assignment is by logging in to GitHub on your Windows VM.
+Since your Ops Challenge repository is stored locally on your Ubuntu, the most convenient way to submit the assignment is by logging in to GitHub on your Windows VM.
 
 Once you have successfully logged into your GitHub profile on the Windows VM, create a new file in your Ops Challenge repository. Copy and paste your batch script into the new file and save it with the appropriate file extension.
 
-Before you can ACP changes from your Ubuntu Server again, make sure to synchronize the changes you made while using the Windows VM to avoid conflicts. To achieve this, run `git pull` from the terminal before you begin any new tasks in your local repository on your Ubuntu Server.
+Before you can ACP changes from your Ubuntu Server again, make sure to synchronize the changes you made while using the Windows VM to avoid conflicts. To achieve this, run `git pull` from the terminal before you begin any new tasks in your local repository on your Ubuntu. Help your team with this today as it may be a little confusing.
 
 
